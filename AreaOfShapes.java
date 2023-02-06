@@ -12,7 +12,7 @@ public class AreaOfShapes {
 	}
 	public void square() {
 		int a =4;
-		int sq = a*a;
+		int sq = a*a*a;
 		System.out.println("Area of rectangle is " + sq);
 	}
 	
